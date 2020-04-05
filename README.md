@@ -12,9 +12,9 @@
 + `src/index.js` - the main application file where all the necessary libraries are included / imported
 + `src/static/` - folder with extra static assets that will be copied into output folder
 
-<h2 align="center">Settings:</h2>
+<h2 align="center">Settings</h2>
 
-<h2>Installation</h2>
+<h2>Installation:</h2>
 <p>To work with Webpack you will need to install dependencies:</p>
 
 + `npm init` - initialization
