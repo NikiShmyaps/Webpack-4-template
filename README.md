@@ -14,6 +14,19 @@
 
 <h2 align="center">Settings</h2>
 
+<h2>Build Setup:</h2>
+
+```
+# Install dependencies:
+npm install
+
+# Server with hot reload at http://localhost:8081/
+npm run dev
+
+# Output will be at dist/ folder
+npm run build
+```
+
 <h2>Installation:</h2>
 <p>To work with Webpack you will need to install dependencies:</p>
 
