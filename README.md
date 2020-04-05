@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/d18f4a7a64244f703efcb322bf298dcb4ca38856/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" width="200" title="Webpack">
 </p>
-<h1>Webpack Template</h1>
+<h1 align="center">Webpack Template</h1>
 <p>My webpack 4 template. Babel 7v, Sass / postcss (autoprefixer & css-nano & css-mqpacker)</p>
 <h2>Project Structure:</h2>
 
